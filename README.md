@@ -1,0 +1,1 @@
+This repository  contains my various Python projects and tasks and it is one of the courses I have to take in school as an engineering student.
