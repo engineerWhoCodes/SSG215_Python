@@ -7,4 +7,4 @@ for auth in myList:
         myDict[auth] = 'Available'
     else:
         myDict[auth] = 'Not available'
-    print('The availability list: ', myDict)
+    print('The availability list: ', myDict) #This will currrent state of myDict
