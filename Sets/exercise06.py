@@ -7,5 +7,5 @@ for sct in sciGreats:
         myDict[sct] = 'Nobel Laureate'
     else:
         myDict[sct] = 'Simply Great'
-print('The laureate list:', myDict)
+print('The laureate list:', myDict) #This will only pass control after the block has run.
     
