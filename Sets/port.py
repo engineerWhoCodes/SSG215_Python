@@ -13,7 +13,7 @@ venn2([compSet_1, compSet_2],
 set_labels = ('First set', 'Second set'),
 set_colors = ('purple', 'yellow'), alpha = 0.8)
 venn2_circles([compSet_1, compSet_2])
-#plt.title('Sample code')
-#plt.show()
+plt.title('Sample code')
+plt.show()
 #The above lines of codes is to prove that sets can involve discrete elements, comprehensions as well intervals.
 print(test)
