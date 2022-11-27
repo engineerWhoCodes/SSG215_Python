@@ -11,3 +11,4 @@ venn2_circles([set(jetClub), set(mathClub)], linestyle='-.', linewidth=2, color=
 plt.title('A venn diagram showing people who are in two different clubs')
 plt.show()
 intList = jetClub.intersection(mathClub)
+
